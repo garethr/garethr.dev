@@ -1,0 +1,13 @@
+baseURL = "https://garethr.dev"
+languageCode = "en-gb"
+title = "garethr.dev"
+theme = "hyde"
+
+[params]
+  themeColor = "theme-base-g"
+
+pygmentsCodefences = true
+pygmentsStyle = "solarized-dark"
+
+[permalinks]
+  posts = "/:year/:month/:title/"

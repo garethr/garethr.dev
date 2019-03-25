@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on garethr.dev</title>
+    <link>https://garethr.dev/posts/</link>
+    <description>Recent content in Posts on garethr.dev</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Mon, 25 Mar 2019 17:05:51 +0000</lastBuildDate>
+    
+	<atom:link href="https://garethr.dev/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Sample</title>
+      <link>https://garethr.dev/2019/03/sample/</link>
+      <pubDate>Mon, 25 Mar 2019 17:05:51 +0000</pubDate>
+      
+      <guid>https://garethr.dev/2019/03/sample/</guid>
+      <description>some content
+import &amp;quot;json&amp;quot; print(&amp;quot;hgis&amp;quot;)  </description>
+    </item>
+    
+  </channel>
+</rss>
