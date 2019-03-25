@@ -1,4 +1,3 @@
-baseURL = "https://garethr.dev"
 languageCode = "en-gb"
 title = "garethr.dev"
 theme = "hyde"
