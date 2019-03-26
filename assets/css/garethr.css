@@ -7,3 +7,27 @@
   margin-left: auto;
   margin-right: auto;
 }
+
+nav {
+  position: fixed;
+}
+
+nav ul {
+  list-style: none;
+  padding: 30px 20px;
+}
+
+nav li {
+  display: inline;
+}
+
+nav a {
+  color: #AAA;
+  padding: 10px;
+}
+
+nav li:first-child a {
+  font-weight: bold;
+  color: #fff;
+  background: #ac4142;
+}
