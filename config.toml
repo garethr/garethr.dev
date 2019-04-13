@@ -6,5 +6,20 @@ theme = "hyde"
 pygmentsCodefences = true
 pygmentsStyle = "solarized-dark"
 
+googleAnalytics = "UA-435455-16"
+
 [permalinks]
   posts = "/:year/:month/:title/"
+
+[related]
+  threshold = 80
+  includeNewer = true
+  toLower = false
+
+[[related.indices]]
+name = "keywords"
+weight = 100
+
+[[related.indices]]
+name = "date"
+weight = 10
