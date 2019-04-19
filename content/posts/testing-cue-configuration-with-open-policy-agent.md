@@ -5,7 +5,7 @@ keywords: cue
 ---
 
 In the first two posts we have written [some configuration using CUE]({{< relref "configuring-kubernetes-with-cue.md" >}})
-and [validated it against the Kubernetes schemas using Kubeal]({{< relref "validating-cue-kubernetes-configuration-with-kubeval.md" >}}).
+and [validated it against the Kubernetes schemas using Kubeval]({{< relref "validating-cue-kubernetes-configuration-with-kubeval.md" >}}).
 In this post we're going to expand testing to include custom assertions.
 
 As mentioned before, I'm using Kubernetes configuration as an example here. The
