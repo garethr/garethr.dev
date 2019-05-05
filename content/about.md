@@ -4,7 +4,7 @@ date: 2019-04-09T09:42:00Z
 menu: "main"
 ---
 
-garethr.dev is the new blog of Gareth Rushgrove. I'm a professional technologists, mainly
+garethr.dev is the new blog of Gareth Rushgrove. I'm a professional technologist, mainly
 specialising in instrastructure, automation and information security.
 
 I have previously worked as:
@@ -15,7 +15,7 @@ I have previously worked as:
   infrastructure, Kubernetes and various source code analytics projects.
 * A Technical Architect for the UK Cabinet Office, working as one of the early members of 
   what became the Government Digital Service, on building the infrastructure that underpins
-  GO.UK, and assisting various government departments with devops and digital transformation
+  GOV.UK, and assisting various government departments with devops and digital transformation
 
 You can generally find me somewhere on the internet if you need to do so:
 
