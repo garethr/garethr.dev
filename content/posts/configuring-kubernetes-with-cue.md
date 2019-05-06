@@ -130,7 +130,7 @@ deployment <Name>: {
 	kind:       "Deployment"
 	metadata name: Name
 	spec: {
-		replicas: 1 | int
+		replicas: *1 | int
 		selector matchLabels app: Name
 		template: {
 			metadata labels app: Name
