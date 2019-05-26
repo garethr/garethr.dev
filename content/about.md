@@ -4,7 +4,7 @@ date: 2019-04-09T09:42:00Z
 menu: "main"
 ---
 
-garethr.dev is the new blog of Gareth Rushgrove. I'm a professional technologists, mainly
+garethr.dev is the new blog of Gareth Rushgrove. I'm a professional technologist, mainly
 specialising in instrastructure, automation and information security.
 
 I have previously worked as:
