@@ -7,6 +7,9 @@ menu: "main"
 garethr.dev is the new blog of Gareth Rushgrove. I'm a professional technologist, mainly
 specialising in instrastructure, automation and information security.
 
+I'm currently Director of Product Management at [Snyk](https://snyk.io/), working on application
+security tools for developers.
+
 I have previously worked as:
 
 * A group Product Manager for Docker, responsible for a range of the developer-facing tools
@@ -21,6 +24,7 @@ You can generally find me somewhere on the internet if you need to do so:
 
 * [twitter.com/garethr](https://twitter.com/garethr)
 * [github.com/garethr](https://github.com/garethr)
+* [speakerdeck.com/garethr](https://speakerdeck.com/garethr)
 
 This blog is managed with the following tools:
 
