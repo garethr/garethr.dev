@@ -1,6 +1,7 @@
 ---
 title: "Ephemeral Kubernetes Clusters With Kind and Make"
 date: 2019-05-27T19:15:24+01:00
+keywords: kind
 ---
 
 There are a number of options for persistent local Kubernetes clusters, but when you're developing tools against the Kubernetes APIs it's often best to be throwing things away fairly regularly. Enter [Kind](https://kind.sigs.k8s.io/). Originally designed as a tool for testing Kubernetes itself, Kind runs a working Kubernetes cluster on top of Docker. 
