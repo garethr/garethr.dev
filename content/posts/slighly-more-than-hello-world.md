@@ -103,12 +103,12 @@ more about havin a structured way to write down the commands. The fact it's exec
 What does it look like to put some of the above ideas into practice? Let's take a look at some recent demos I've been using.
 I made a handy [index page](https://gist.github.com/garethr/1599cb36cb348d7793a8a501c70085ad) which includes:
 
-* [A Go application with a over-the-top Bazel build system](https://github.com/garethr/snykly)
-* [A Spring Boot application using Jib and Cloud Native Build Packs to build a Docker image](https://github.com/garethr/snykier)
+* [A Go application with an over-the-top Bazel build system](https://github.com/garethr/snykly)
+* [A Spring Boot application using Jib and Cloud Native Build Packs to build Docker images](https://github.com/garethr/snykier)
 * [A Ruby application deployed using the new k14s toolchain](https://github.com/garethr/snykit)
-* [A Lambda application writting using Chalice](https://github.com/garethr/snyker)
+* [A Lambda application written using Chalice](https://github.com/garethr/snyker)
 * [A Node.js app using Tilt, Helm and UBI](https://github.com/garethr/snykin)
-* [A Python app demonstrating a large number of open policy agent integrations](https://github.com/garethr/snyky)
+* [A Python app demonstrating a large number of Open Policy Agent integrations](https://github.com/garethr/snyky)
 
 It's notable that most of these use GitHub Actions for one thing or another. It's increasingly becoming my favourite swiss army knife for gluing things together.
 
