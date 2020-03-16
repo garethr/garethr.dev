@@ -10,7 +10,7 @@ which I might write about separately, in this post I wanted to talk about the he
 go a little further.
 
 
-## Hello World
+## Hello world
 
 The classic hello world demo is as simple as possible. Let's say in Python:
 
