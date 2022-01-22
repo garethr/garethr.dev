@@ -102,7 +102,7 @@ away behind an action! I think you could probably get the above down to somethin
 If you don't like the idea of hiding all of that YAML and bash behind some more YAML and a Docker image then please
 don't look at how most software works :)
 
-The above example also has at least one more flaw. If you take a look at the `TaskRun` soec, it's actually testing code from a different
+The above example also has at least one more flaw. If you take a look at the `TaskRun` spec, it's actually testing code from a different
 repository rather than this one. Now Actions happily provides the relevant details as environment variables, namely
 `GITHUB_REPOSITORY` and `GITHUB_SHA`. With a bit of `envsubst` or `sed` you could swap in the relevant local values into
 the `TaskRun` template.
